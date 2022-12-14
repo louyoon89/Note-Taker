@@ -67,6 +67,11 @@ Deployed Links: Github & Heroku
 
 ## Demo
 
+
+https://user-images.githubusercontent.com/113860554/207727565-3e58a49a-f2e9-4dd6-8737-0f13720013f3.mp4
+
+
+
 ## Screenshots
 * Landing Page
 ![Screenshot of application](./assets/screenshots/sc1.png)
