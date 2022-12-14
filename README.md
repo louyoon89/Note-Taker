@@ -32,13 +32,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 ## Technology
-
+#### Heroku
 #### Javascript
 - OOP
 - FS (File System)
 - Express
 - Node.js
-#### Heroku
+
 
 ## Demo
 
