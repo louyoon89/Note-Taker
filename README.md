@@ -62,5 +62,5 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Links
 
-- Github:
-- Heroku:
+- Github: https://github.com/louyoon89/Note-Taker
+- Heroku: https://pacific-taiga-48369.herokuapp.com/
