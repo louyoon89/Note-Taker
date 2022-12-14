@@ -11,10 +11,10 @@ Create an application called Note Taker that can be used to write and save notes
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Technology](#Technology)
-- [Screenshots](#Screenshots)
-- [Demo](#Demo)
 - [Status](#Status)
 - [Links](#Links)
+- [Demo](#Demo)
+- [Screenshots](#Screenshots)
 
 ## Installation
 
@@ -40,17 +40,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - Node.js
 
 
-## Demo
-
-## Screenshots
-* Landing Page
-![Screenshot of application](./assets/screenshots/sc1.png)
-* Note Taker Default Page
-![Screenshot of application](./assets/screenshots/sc1.png)
-* Note Taker Sample (Initial Test Delete, New Notes Added)
-![Screenshot of application](./assets/screenshots/sc1.png)
-
-
 ## Status
 
 ```
@@ -74,3 +63,14 @@ Deployed Links: Github & Heroku
 
 - Github: https://github.com/louyoon89/Note-Taker
 - Heroku: https://pacific-taiga-48369.herokuapp.com/
+
+
+## Demo
+
+## Screenshots
+* Landing Page
+![Screenshot of application](./assets/screenshots/sc1.png)
+* Note Taker Default Page
+![Screenshot of application](./assets/screenshots/sc1.png)
+* Note Taker Sample (Initial Test Delete, New Notes Added)
+![Screenshot of application](./assets/screenshots/sc1.png)
