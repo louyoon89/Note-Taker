@@ -76,6 +76,6 @@ https://user-images.githubusercontent.com/113860554/207727565-3e58a49a-f2e9-4dd6
 * Landing Page
 ![Screenshot of application](./assets/screenshots/sc1.png)
 * Note Taker Default Page
-![Screenshot of application](./assets/screenshots/sc1.png)
+![Screenshot of application](./assets/screenshots/sc2.png)
 * Note Taker Sample (Initial Test Delete, New Notes Added)
-![Screenshot of application](./assets/screenshots/sc1.png)
+![Screenshot of application](./assets/screenshots/sc3.png)
