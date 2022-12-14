@@ -18,17 +18,17 @@ Create an application called Note Taker that can be used to write and save notes
 ## Installation
 
 Clone Repository and install dependency packages by running the following command line:
-\`\`\`
+```
 npm i
-\`\`\`
+```
 
 ## Usage
 
-\`\`\`
+```
 AS the USER
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
-\`\`\`
+```
 
 ## Technology
 
