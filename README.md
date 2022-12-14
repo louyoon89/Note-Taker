@@ -11,6 +11,7 @@ Create an application called Note Taker that can be used to write and save notes
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Technology](#Technology)
+- [Screenshots](#Screenshots)
 - [Demo](#Demo)
 - [Status](#Status)
 - [Links](#Links)
@@ -32,14 +33,16 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Technology
 
-### Javascript
+#### Javascript
 - OOP
 - FS (File System)
 - Express
 - Node.js
-### Heroku
+#### Heroku
 
 ## Demo
+
+## Screenshots
 * Landing Page
 ![Screenshot of application](./assets/screenshots/sc1.png)
 * Note Taker Default Page
