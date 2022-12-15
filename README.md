@@ -13,8 +13,9 @@ Create an application called Note Taker that can be used to write and save notes
 - [Technology](#Technology)
 - [Status](#Status)
 - [Links](#Links)
-- [Demo](#Demo)
 - [Screenshots](#Screenshots)
+- [Demo](#Demo)
+
 
 ## Installation
 
@@ -65,13 +66,6 @@ Deployed Links: Github & Heroku
 - Heroku: https://pacific-taiga-48369.herokuapp.com/
 
 
-## Demo
-
-
-https://user-images.githubusercontent.com/113860554/207727565-3e58a49a-f2e9-4dd6-8737-0f13720013f3.mp4
-
-
-
 ## Screenshots
 * Landing Page
 ![Screenshot of application](./assets/screenshots/sc1.png)
@@ -79,3 +73,10 @@ https://user-images.githubusercontent.com/113860554/207727565-3e58a49a-f2e9-4dd6
 ![Screenshot of application](./assets/screenshots/sc2.png)
 * Note Taker Sample (Initial Test Delete, New Notes Added)
 ![Screenshot of application](./assets/screenshots/sc3.png)
+* Command Line Console Logs:
+![Screenshot of application](./assets/screenshots/sc3.png)
+
+## Demo
+
+https://user-images.githubusercontent.com/113860554/207727565-3e58a49a-f2e9-4dd6-8737-0f13720013f3.mp4
+

@@ -41,6 +41,7 @@ app.post("/api/notes", function (req, res) {
     fs.writeFile("./db/db.json", listData, "utf8", function (err) {
       if (err) throw err;
     });
+    console.log("Note Added!")
     res.json(JSON.parse(listData));
   } catch (err) {
     throw err;
@@ -64,6 +65,7 @@ app.delete("/api/notes/:id", function (req, res) {
     fs.writeFile("./db/db.json", listData, "utf8", function (err) {
       if (err) throw err;
     });
+    console.log("Note Delete!")
     res.send(JSON.parse(listData));
   } catch (err) {
     throw err;
