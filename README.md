@@ -74,7 +74,7 @@ Deployed Links: Github & Heroku
 * Note Taker Sample (Initial Test Delete, New Notes Added)
 ![Screenshot of application](./assets/screenshots/sc3.png)
 * Command Line Console Logs:
-![Screenshot of application](./assets/screenshots/sc3.png)
+![Screenshot of application](./assets/screenshots/sc4.png)
 
 ## Demo
 
